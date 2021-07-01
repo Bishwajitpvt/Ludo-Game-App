@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "499813203634",
+    "project_id": "ludo-65ad7",
+    "storage_bucket": "ludo-65ad7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:499813203634:android:ffb9186ebce660a99813ab",
+        "android_client_info": {
+          "package_name": "com.myludo.myludogame"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "499813203634-f8mr1tjfnhaoi1m5nb1cndhh2o40bqus.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTgT8QWXsPXg_EhlhaFQkmRqaNrTugP44"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "499813203634-f8mr1tjfnhaoi1m5nb1cndhh2o40bqus.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
