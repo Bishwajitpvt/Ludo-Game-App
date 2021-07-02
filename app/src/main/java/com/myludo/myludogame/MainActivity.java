@@ -51,8 +51,6 @@ public class MainActivity extends CordovaActivity
         if (extras != null && extras.getBoolean("cdvStartInBackground", false)) {
             moveTaskToBack(true);
         }loadUrl(launchUrl);
-
-
         // Here is GDPR  :
         //================
         ConsentInformation consentInformation = ConsentInformation.getInstance(MainActivity.this);
